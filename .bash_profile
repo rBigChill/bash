@@ -1,4 +1,4 @@
-PS1=$'\n:)~ '
+PS1=$':)~ '
 
 alias ll="ls -l"
 alias la="ls -a"
