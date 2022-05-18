@@ -94,7 +94,7 @@ wondrium() {open "https://www.wondrium.com/"}
 learn() {
     udemy; sleep 1;
     coursera; sleep 1;
-    learn; sleep 1;
+    wondrium; sleep 1;
 }
 
 # Search google
