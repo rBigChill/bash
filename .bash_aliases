@@ -9,6 +9,7 @@ lf() {print -l ${(ok)functions}}
 
 # Update shell
 update() {sudo apt update && sudo apt -y upgrade}
+remove() {sudo apt -y autoremove}
 
 # Git functions
 # Git init
